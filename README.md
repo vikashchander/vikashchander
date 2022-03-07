@@ -1,1 +1,1 @@
-### 👋 Hi, I am  WebDeveloper(Mern Stack) Living in Delhi, India, 
+### 👋 Hi, I am  JavaScript Developer Living in Delhi, India, 
